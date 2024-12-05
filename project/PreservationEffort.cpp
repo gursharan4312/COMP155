@@ -1,4 +1,5 @@
 class PreservationEffort {
+private:
     string effortID;
     string siteID;
     string description;

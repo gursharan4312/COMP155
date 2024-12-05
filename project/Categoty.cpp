@@ -1,4 +1,5 @@
 class Category {
+private:
     string categoryID;
     string categoryName;
     vector<HeritageSite *> siteList;

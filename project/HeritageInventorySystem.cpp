@@ -1,4 +1,5 @@
 class HeritageInventorySystem {
+private:
     vector<HeritageSite *> heritageSites;
     vector<Category *> categories;
     vector<PreservationEffort *> efforts;
